@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<project name="Maven">
+  <bannerLeft>
+    <name>${project.name}</name>
+    <src>http://static.realtybaron.com/image/logo_1a.gif</src>
+    <link>http://www.realtybaron.com/</link>
+  </bannerLeft>
+  <bannerRight>
+    <src>http://maven.apache.org/images/maven-small.gif</src>
+  </bannerRight>
+  <body>
+    <links>
+      <item name="RealtyBaron.com" href="http://www.realtybaron.com/"/>
+      <item name="Zillow.com" href="http://www.zillow.com/"/>
+    </links>
+    <menu name="Overview">
+      <item name="Introduction" href="index.html"/>
+      <item name="How to Use" href="howtouse.html"/>
+      <item name="Download" href="download.html"/>
+    </menu>
+    ${reports}
+  </body>
+</project>

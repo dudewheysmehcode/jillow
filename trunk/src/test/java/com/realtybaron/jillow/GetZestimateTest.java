@@ -1,8 +1,10 @@
-package com.realtybaron.zillow;
+package com.realtybaron.jillow;
 
-import com.realtybaron.zillow.search.SearchResultsController;
-import com.realtybaron.zillow.types.*;
-import com.realtybaron.zillow.zestimate.ZestimateController;
+import com.realtybaron.jillow.search.SearchResultsController;
+import com.realtybaron.jillow.types.Amount;
+import com.realtybaron.jillow.types.SimpleProperty;
+import com.realtybaron.jillow.types.Zestimate;
+import com.realtybaron.jillow.zestimate.ZestimateController;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
 import org.apache.commons.logging.Log;

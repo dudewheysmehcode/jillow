@@ -1,6 +1,6 @@
-package com.realtybaron.zillow;
+package com.realtybaron.jillow;
 
-import com.realtybaron.zillow.chart.RegionChartController;
+import com.realtybaron.jillow.chart.RegionChartController;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
 import org.apache.commons.logging.Log;

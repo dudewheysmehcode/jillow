@@ -1,4 +1,4 @@
-package com.realtybaron.zillow;
+package com.realtybaron.jillow;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

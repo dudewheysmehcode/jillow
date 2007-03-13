@@ -1,8 +1,8 @@
-package com.realtybaron.zillow;
+package com.realtybaron.jillow;
 
-import com.realtybaron.zillow.search.DeepSearchResultsController;
-import com.realtybaron.zillow.search.SearchResultsController;
-import com.realtybaron.zillow.types.SimpleProperty;
+import com.realtybaron.jillow.search.DeepSearchResultsController;
+import com.realtybaron.jillow.search.SearchResultsController;
+import com.realtybaron.jillow.types.SimpleProperty;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
 import org.apache.commons.logging.Log;

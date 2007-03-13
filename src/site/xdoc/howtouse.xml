@@ -1,0 +1,66 @@
+<document>
+  <properties>
+    <author email="marc@realtybaron.com">Marc Dugger</author>
+    <title>Zillow Java API Project</title>
+  </properties>
+  <body>
+    <section name="How to Use">
+      <subsection name="Maven Build">
+        <p>
+          <p>
+            <ol>
+              <li>Add the following dependency to your project POM:
+                <pre>
+                  &lt;repositories&gt;
+                  &lt;repository&gt;
+                  &lt;id>realtybaron&lt;/id&gt;
+                  &lt;name>RealtyBaron, Inc.&lt;/name&gt;
+                  &lt;url>http://repo.realtybaron.com/maven2&lt;/url&gt;
+                  &lt;/repository&gt;
+                  ...
+                  &lt;/repositories&gt;
+
+                  &lt;dependencies&gt;
+                  &lt;dependency&gt;
+                  &lt;groupId&gt;RealtyBaronInc&lt;/groupId&gt;
+                  &lt;artifactId&gt;zillow-api&lt;/artifactId&gt;
+                  &lt;version&gt;1.0&lt;/version&gt;
+                  &lt;/dependency&gt;
+                  ...
+                  &lt;/dependencies&gt;
+                </pre>
+              </li>
+              <li>Create zillow-api.properties with the following properties:
+                <pre>
+                  protocol=http
+                  host=www.zillow.com
+                  port=80
+                  zwsid=
+                  <i>your Zillow API key</i>
+                </pre>
+              </li>
+              <li>Add zillow-api.properties to your classpath.</li>
+            </ol>
+          </p>
+        </p>
+      </subsection>
+      <subsection name="Other">
+        <p>
+          <ol>
+            <li>Add zillow-api-1.0.jar to your classpath.</li>
+            <li>Create zillow-api.properties with the following properties:
+              <pre>
+                protocol=http
+                host=www.zillow.com
+                port=80
+                zwsid=
+                <i>your Zillow API key</i>
+              </pre>
+            </li>
+            <li>Add zillow-api.properties to your classpath.</li>
+          </ol>
+        </p>
+      </subsection>
+    </section>
+  </body>
+</document>

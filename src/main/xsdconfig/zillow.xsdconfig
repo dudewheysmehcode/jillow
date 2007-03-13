@@ -1,0 +1,23 @@
+<xb:config xmlns:xb="http://xml.apache.org/xmlbeans/2004/02/xbean/config">
+  <xb:namespace uri="http://www.zillow.com/vstatic/3/static/xsd/ZillowTypes.xsd">
+    <xb:package>com.realtybaron.jillow.types</xb:package>
+  </xb:namespace>
+  <xb:namespace uri="http://www.zillow.com/static/xsd/Chart.xsd">
+    <xb:package>com.realtybaron.jillow.chart</xb:package>
+  </xb:namespace>
+  <xb:namespace uri="http://www.zillow.com/static/xsd/Comps.xsd">
+    <xb:package>com.realtybaron.jillow.comps</xb:package>
+  </xb:namespace>
+  <xb:namespace uri="http://www.zillow.com/static/xsd/RegionChart.xsd">
+    <xb:package>com.realtybaron.jillow.chart</xb:package>
+  </xb:namespace>
+  <xb:namespace uri="http://www.zillow.com/static/xsd/SearchResults.xsd">
+    <xb:package>com.realtybaron.jillow.search</xb:package>
+  </xb:namespace>
+  <xb:namespace uri="http://www.zillow.com/static/xsd/Zestimate.xsd">
+    <xb:package>com.realtybaron.jillow.zestimate</xb:package>
+  </xb:namespace>
+  <xb:namespace uri="http://www.zillow.com/static/xsd/ZillowTypes.xsd">
+    <xb:package>com.realtybaron.jillow.types</xb:package>
+  </xb:namespace>
+</xb:config>

@@ -1,0 +1,37 @@
+<document>
+  <properties>
+    <author email="marc@realtybaron.com">Marc Dugger</author>
+    <title>Zillow Java API Project</title>
+  </properties>
+  <body>
+    <section name="Introduction">
+      <p>The Zillow Java API project is developed by
+        <a href="http://www.realtybaron.com">RealtyBaron.com</a>
+        .
+        Its purpose is to simply integration with Zillow.com's web service API for Java developers.
+      </p>
+      <p>The Zillow Java API
+        <b>is not</b>
+        associated with Zillow.com nor has it been endorsed by Zillow.com.
+      </p>
+      <p>Please send questions, comments, and feedback to
+        <a href="mailto:marc@realtybaron.com">RealtyBaron.com</a>
+      </p>
+      <p>
+        <!-- Start of Digg -->
+        <script>digg_url = 'http://digg.com/programming/Zillow_API_for_Java_Toolkit_Released';</script>
+        <script src="http://digg.com/api/diggthis.js"></script>
+        <!-- End of Digg -->
+        <!-- Start of StatCounter Code -->
+        <script>
+          var sc_project=1779203;
+          var sc_invisible=1;
+          var sc_partition=16;
+          var sc_security='dd12ac44';
+        </script>
+        <script src="http://www.statcounter.com/counter/counter.js"></script>
+        <!-- End of StatCounter Code -->
+      </p>
+    </section>
+  </body>
+</document>

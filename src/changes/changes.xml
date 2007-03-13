@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<document>
+  <properties>
+    <title>Zillow Java API Project</title>
+    <author email="marc@realtybaron.com">Marc Dugger</author>
+  </properties>
+  <body>
+    <release version="1.0-SNAPSHOT" date="2006-08-07" description="Current work version">
+      <action dev="zillow-api" type="add">First public release</action>
+    </release>
+  </body>
+</document>

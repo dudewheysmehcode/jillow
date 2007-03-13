@@ -8,9 +8,22 @@
   <version>1.0-SNAPSHOT</version>
   <name>Jillow: Java implementation for Zillow's API</name>
   <url>http://code.google.com/p/jillow/</url>
+  <distributionManagement>
+    <site>
+      <id>realtybaron</id>
+      <url>scp://marc@realtybaron.kattare.com/home/marc/code_realtybaron_com/docs/zillow-api/</url>
+    </site>
+  </distributionManagement>
   <scm>
     <connection>scm:svn:http://jillow.googlecode.com/svn/</connection>
   </scm>
+  <repositories>
+    <repository>
+      <id>realtybaron.com</id>
+      <name>RealtyBaron, Inc.</name>
+      <url>http://repo.realtybaron.com/maven2</url>
+    </repository>
+  </repositories>
   <developers>
     <developer>
       <id>marc</id>
